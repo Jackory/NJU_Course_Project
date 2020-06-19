@@ -1,0 +1,12 @@
+Name,Instances,Outliers,Attributes
+ALOI,50000,1508,27
+Glass,214,9,7
+Ionosphere,351,126,32
+KDDCup99,60632,246,41
+Lymphography,148,6,19
+PenDigits,9868,20,16
+Shuttle,1013,13,9
+Waveform,3443,100,21
+WBC,454,10,9
+WDBC,367,10,30
+WPBC,198,47,33
